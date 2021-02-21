@@ -1,0 +1,4 @@
+Crear usuario developer
+Asignarle las authorized keys al usuario developer. Deben ser las claves publicas
+En /etc/ssh/sshd_config poner PermitRootLogin yes y habilitarlo para root
+Ver como crear grupo y si es necesario para esto.
